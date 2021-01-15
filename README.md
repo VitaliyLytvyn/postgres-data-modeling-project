@@ -37,3 +37,6 @@ It will connect to database and start 2 processing works:
 To visualize the process there are 2 Jupyter Notebook files:
 - 'test.ipynb' - displays the first few rows of each table.
 - 'etl.ipynb' - reads and processes a single file both from logs and songs metadata directories, then loads the data into the tables.
+
+### UML diagram
+![UML diagram](/images/uml.png)
